@@ -1,5 +1,5 @@
 # Flash-Cards-Project
-A simple French-English flashcard learning app built with Python and Tkinter. It shows a French word, waits a few seconds, and flips the card to reveal the English translation. You can mark whether you got it right or wrong.The data updates so that u can't have a word that u guessed correcctly appear again.
+A simple French-English flashcard learning app built with Python and Tkinter. It shows a French word, waits a few seconds, and flips the card to reveal the English translation. You can mark whether you got it right or wrong. The data updates so that you can't have a word that you guessed correcctly appear again.
 
 🧰 Technologies Used
 
